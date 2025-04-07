@@ -1,4 +1,4 @@
-import SudokuBoard from './components/Sudokuboard.js'
+import SudokuBoard from './components/Sudokuboard.jsx'
 
 function App() {
   return (

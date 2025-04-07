@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { generateSudoku } from '../utils/sudokuGenerator';
+import { generateSudoku } from '../utils/sudokuGenerator.js';
 import './SudokuBoard.css';
 
 const SudokuBoard = () => {
